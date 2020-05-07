@@ -24,4 +24,4 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 Possui graduação em Informática pela Universidade de Fortaleza (2005) , mestrado em Ciência da Computação pela Universidade Federal do Ceará (2008) e doutorado em Ciência da Computação pela Universidade Federal do Ceará (2016). Atualmente é professor adjunto da Universidade Federal do Ceará, no Campus de Quixadá. Tem experiência na área de Ciência da Computação, com ênfase em Computação de Alto Desempenho, Sistemas Distribuídos e Programação de Componentes.
 
-* Currículo lattes: http://lattes.cnpq.br/0599735640120960
+* [Currículo lattes](http://lattes.cnpq.br/0599735640120960)
