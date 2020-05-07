@@ -32,8 +32,8 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
       <th scope="row">14:00-16:00</th>
       <td class="table-react" onclick="location.href = 'react'">React</td>
       <td class="table-react" onclick="location.href = 'react'">React</td>
-      <td class="table-flutter" onclick="location.href = 'flutter'">React</td>
-      <td class="table-flutter" onclick="location.href = 'flutter'">React</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
     </tr>
     <tr>
       <th scope="row">16:00-17:00</th>
@@ -45,6 +45,3 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   
   </tbody>
 </table>
-
-<!-- Modal -->
-
