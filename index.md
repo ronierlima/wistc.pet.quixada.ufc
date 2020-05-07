@@ -29,8 +29,8 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
-      <td style="color: white; background-color: #61dafb"><a href="/minicursos/react">React</a></td>
-      <td style="color: white; background-color: #61dafb"><a href="React">React</a></td>
+      <td style="color: white; background-color: #61dafb"><a href="react">React</a></td>
+      <td style="color: white; background-color: #61dafb"><a href="react">React</a></td>
       <td>Flutter</td>
       <td>Flutter</td>
     </tr>

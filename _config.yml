@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 
 
 # Variaveis para caminhos de imagens 
-logo: https://github.com/RonierLima/wistc-2020/blob/master/assets/images/logo.png
+logo: assets/images/logo.png
 
 
 # Configurações internas do site
