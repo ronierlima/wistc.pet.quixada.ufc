@@ -19,28 +19,27 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">11/05</th>
+      <th scope="col">12/05</th>
+      <th scope="col">13/05</th>
+      <th scope="col">14/05</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">14:00-16:00</th>
+      <td>16:00-17:00</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
+      <td>React</td>
+      <td>Café com Docker</td>
       <td>@fat</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td colspan="2">React</td>
+      <td>Café com Docker</td>
     </tr>
   </tbody>
 </table>
