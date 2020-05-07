@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 
 # Variaveis para caminhos de imagens 
 logo: assets/images/logo.png
-
+title: WTISC 2020
 
 # Configurações internas do site
 github.is_project_page: false
