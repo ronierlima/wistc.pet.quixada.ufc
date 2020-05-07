@@ -28,19 +28,19 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
-      <td>16:00-17:00</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
       <td>React</td>
-      <td>Café com Docker</td>
-      <td>@fat</td>
+      <td>React</td>
+      <td>Flutter</td>
+      <td>Flutter</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td colspan="2">React</td>
+      <th scope="row">16:00-17:00</th>
+      <td>Café com Docker</td>
+      <td>Café com Docker</td>
+      <td>Café com Docker</td>
       <td>Café com Docker</td>
     </tr>
+  
   </tbody>
 </table>
 
