@@ -17,7 +17,7 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 ## Minicursos
 
-    Clique no título para **ver mais** sobre os minicursos.
+> Clique no título para **ver mais** sobre os minicursos.
 
 <table class="table table-bordered">
   <thead>
