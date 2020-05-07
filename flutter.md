@@ -13,16 +13,11 @@ Este minicurso tem por objetivo apresentar o Flutter, um toolkit cross platform 
 * Gerenciamento de estado;
 * Próximos passos.
 
-# Cronograma 
 
-## Dias
+<i class="fa fa-calendar-check-o" aria-hidden="true" style="color: #159957"></i>  **13 e 14 de Maio de 2020**
 
-* 13 e 14 de Maio de 2020
+<i class="fa fa-clock-o" aria-hidden="true" style="color: #159957"></i> **14 às 16 horas**
 
-## Horários
-
-* 14 às 16 horas
-
-# Inscrições
+## Inscrições
 
 [Formulário de inscrição - React](https://bit.ly/3fu3k2j)
