@@ -19,4 +19,4 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 ## Inscrições
 
-https://bit.ly/2YHpOHa
+[Formulário de inscrição - React](https://bit.ly/2YHpOHa)
