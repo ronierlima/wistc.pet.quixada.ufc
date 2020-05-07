@@ -19,7 +19,7 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 <table class="table table-bordered">
   <thead>
     <tr>
-      <th scope="col" class="border-o" style="border: none;">#</th>
+      <th scope="col" style="border: none;"></th>
       <th scope="col">11/05</th>
       <th scope="col">12/05</th>
       <th scope="col">13/05</th>
