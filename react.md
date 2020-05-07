@@ -8,9 +8,9 @@ title: React - Minicurso
 Esse minicurso tem como objetivo introduzir o Framework React através da construção de uma aplicação lúdica baseada no universo Pokémon, englobando os seguintes assuntos: Componentes, Axios, Bootstrap e SessionStorage.
 
 
-** <i class="fa fa-2x fa-calendar-check-o" aria-hidden="true"></i> 11 e 12 de Maio de 2020**
+<i class="fa fa-2x fa-calendar-check-o" aria-hidden="true" style="color: #159957"></i> **11 e 12 de Maio de 2020**
 
-** <i class="fa fa-2x fa-clock-o" aria-hidden="true"></i> 14 às 16 horas**
+<i class="fa fa-2x fa-clock-o" aria-hidden="true" style="color: #159957"></i> **14 às 16 horas**
 
 # Inscrições
 
