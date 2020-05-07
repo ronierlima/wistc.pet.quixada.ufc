@@ -1,6 +1,7 @@
 ---
 layout: default
-title: react
+title: React
+permalink: {{baseurl}}/minicursos/react
 ---
 
 # React
