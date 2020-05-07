@@ -30,17 +30,17 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
-      <td style="color: white; background-color: #61dafb"><a href="react">React</a></td>
-      <td style="color: white; background-color: #61dafb"><a href="react">React</a></td>
+      <td style="color: white; background-color: #9b59b6"><a href="react" style="text-decoration: none;">React</a></td>
+      <td style="color: white; background-color: #9b59b6"><a href="react"  style="text-decoration: none;">React</a></td>
       <td>Flutter</td>
       <td>Flutter</td>
     </tr>
     <tr>
       <th scope="row">16:00-17:00</th>
-      <td>Café com Docker</td>
-      <td>Café com Docker</td>
-      <td>Café com Docker</td>
-      <td>Café com Docker</td>
+      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
+      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
+      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
+      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
     </tr>
   
   </tbody>
