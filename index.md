@@ -15,7 +15,41 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 # Programação
 
-### Minicursos
+## Minicursos
+
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col" style="border: none;"></th>
+      <th scope="col">11/05</th>
+      <th scope="col">12/05</th>
+      <th scope="col">13/05</th>
+      <th scope="col">14/05</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">14:00-16:00</th>
+      <td class="table-react" onclick="location.href = 'react'">React</td>
+      <td class="table-react" onclick="location.href = 'react'">React</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
+    </tr>
+    <tr>
+      <th scope="row">16:00-17:00</th>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+    </tr>
+  
+  </tbody>
+</table>
+
+
+## Palestras
+
 
 <table class="table table-bordered">
   <thead>
