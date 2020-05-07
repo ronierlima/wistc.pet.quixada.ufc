@@ -37,10 +37,10 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
     </tr>
     <tr>
       <th scope="row">16:00-17:00</th>
-      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
-      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
-      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
-      <td style="color: white; background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none;">Café com Docker</a></td>
+      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
+      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
+      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
+      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
     </tr>
   
   </tbody>
