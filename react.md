@@ -3,7 +3,7 @@ layout: default
 title: React - Minicurso
 ---
 
-# React - Jeferson Carvalho
+# React - Prof. Jeferson Carvalho
 
 Esse minicurso tem como objetivo introduzir o Framework React através da construção de uma aplicação lúdica baseada no universo Pokémon, englobando os seguintes assuntos: Componentes, Axios, Bootstrap e SessionStorage.
 
@@ -11,11 +11,11 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 ## Dias
 
-11 e 12 de Maio de 2020
+* 11 e 12 de Maio de 2020
 
 ## Horários
 
- 14 às 16 horas
+* 14 às 16 horas
 
 ## Inscrições
 

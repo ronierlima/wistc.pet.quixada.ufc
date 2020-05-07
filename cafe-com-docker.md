@@ -1,12 +1,9 @@
-
-
-
 ---
 layout: default
 title: Café com Docker - Minicurso
 ---
 
-# React - Jeferson Carvalho
+# Café com Docker - Prof. Michel Bonfim
 
 Esse minicurso tem por objetivo apresentar o Docker, um gerenciador de virtualização de sistema operacional, bem como o seu uso na prática. No total, serão 4 aulas de 1 hora cada, englobando os seguintes assuntos:
 
@@ -20,7 +17,7 @@ Esse minicurso tem por objetivo apresentar o Docker, um gerenciador de virtualiz
 
 ## Dias
 
-11 à 14 de Maio de 2020
+* 11 à 14 de Maio de 2020
 
 ## Horários
 
