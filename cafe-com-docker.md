@@ -23,6 +23,6 @@ Esse minicurso tem por objetivo apresentar o Docker, um gerenciador de virtualiz
 
 * 16 às 17 horas
 
-## Inscrições
+# Inscrições
 
 [Formulário de inscrição - Café com Docker](https://bit.ly/2ySMslc)

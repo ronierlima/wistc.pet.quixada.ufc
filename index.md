@@ -30,17 +30,17 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
-      <td class="table-react"><a href="react" style="{text-decoration: none;}">React</a></td>
       <td class="table-react" onclick="location.href = 'react'">React</td>
-      <td>Flutter</td>
-      <td>Flutter</td>
+      <td class="table-react" onclick="location.href = 'react'">React</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">React</td>
+      <td class="table-flutter" onclick="location.href = 'flutter'">React</td>
     </tr>
     <tr>
       <th scope="row">16:00-17:00</th>
-      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
-      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
-      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
-      <td style="background-color: #34495e"><a href="cafe-com-docker" style="text-decoration: none; color: white;">Café com Docker</a></td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
     </tr>
   
   </tbody>

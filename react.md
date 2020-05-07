@@ -17,6 +17,6 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 * 14 às 16 horas
 
-## Inscrições
+# Inscrições
 
 [Formulário de inscrição - React](https://bit.ly/2YHpOHa)

@@ -8,18 +8,30 @@
     color: white !important;
 }
 
-.table-react a{
-    text-decoration: none !important;
-    color: white !important;
-}
 .table-react:hover {
     background-color: white !important; 
     color: #9b59b6 !important;
-    cursor: hand;
+    cursor: pointer;
 }
 
-.table-react:hover a{ 
-    text-decoration: none !important;
-    color: #9b59b6 !important;
+.table-cafe {
+    background-color: #a38068  !important; 
+    color: white !important;
 }
 
+.table-cafe:hover {
+    background-color: white !important; 
+    color: #a38068  !important;
+    cursor: pointer;
+}
+
+.table-flutter {
+    background-color: #3498db !important; 
+    color: white !important;
+}
+
+.table-flutter:hover {
+    background-color: white !important; 
+    color: #3498db !important;
+    cursor: pointer;
+}
