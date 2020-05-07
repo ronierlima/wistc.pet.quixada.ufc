@@ -12,9 +12,11 @@
     text-decoration: none !important;
     color: white !important;
 }
-
-.table-react:hover a{
+.table-react:hover {
     background-color: white !important; 
+}
+
+.table-react:hover a{ 
     text-decoration: none !important;
     color: #9b59b6 !important;
 }
