@@ -3,7 +3,7 @@ layout: default
 title: Flutter - Minicurso
 ---
 
-# React - Prof. Jeferson Carvalho
+# Flutter - Robson Silva
 
 Este minicurso tem por objetivo apresentar o Flutter, um toolkit cross platform da Google para construção de aplicações mobile, web e desktop, bem como o seu uso na prática. No total, serão 4 aulas de 1 hora cada, englobando os seguintes assuntos:
 
