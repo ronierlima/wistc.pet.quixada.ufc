@@ -22,9 +22,11 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 * VSCode https://code.visualstudio.com/ *(Opcional)*
   
 > Para criar uma aplicação com node
-> sudo npm i -g create-react-app (instalação no Ubuntu, no windows é sem o sudo)
+> 
+> ``sudo npm i -g create-react-app`` (instalação no Ubuntu, no windows é sem o sudo)
 
 ## Repositório 
 
 O repositório do github do curso é esse:
-(https://github.com/jeffersoncarvalho/WTISC-POKEMON)[https://github.com/jeffersoncarvalho/WTISC-POKEMON]
+
+[https://github.com/jeffersoncarvalho/WTISC-POKEMON](https://github.com/jeffersoncarvalho/WTISC-POKEMON)
