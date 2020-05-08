@@ -18,8 +18,8 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 ### Pré-Requisitos
 
-* Node.js: https://nodejs.org/en/
-* VSCode https://code.visualstudio.com/ *(Opcional)*
+* [Node.js](https://nodejs.org/en/)
+* [VSCode](https://code.visualstudio.com/) *(Opcional)*
   
 > Para criar uma aplicação com node
 > 
