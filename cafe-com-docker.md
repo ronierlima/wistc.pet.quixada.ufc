@@ -13,15 +13,11 @@ Esse minicurso tem por objetivo apresentar o Docker, um gerenciador de virtualiz
 * Volumes em Docker;
 * Docker Compose.
 
-# Cronograma 
 
-## Dias
+<i class="fa fa-calendar-check-o" aria-hidden="true" style="color: #159957"></i>   **11 à 14 de Maio de 2020**
 
-* 11 à 14 de Maio de 2020
 
-## Horários
-
-* 16 às 17 horas
+<i class="fa fa-clock-o" aria-hidden="true" style="color: #159957"></i>  **16 às 17 horas**
 
 # Inscrições
 

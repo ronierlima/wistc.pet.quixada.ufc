@@ -16,12 +16,15 @@ Esse minicurso tem como objetivo introduzir o Framework React através da constr
 
 [Formulário de inscrição - React](https://bit.ly/2YHpOHa)
 
-# Dados do Palestrante
+### Pré-Requisitos
 
-![jeferson](https://www.quixada.ufc.br/wp-content/uploads/2015/05/Jefferson-de-Carvalho-Silva1-225x300.png)
+* Node.js: https://nodejs.org/en/
+* VSCode https://code.visualstudio.com/ *(Opcional)*
+  
+> Para criar uma aplicação com node
+> sudo npm i -g create-react-app (instalação no Ubuntu, no windows é sem o sudo)
 
-### Jefferson de Carvalho Silva
+## Repositório 
 
-Possui graduação em Informática pela Universidade de Fortaleza (2005) , mestrado em Ciência da Computação pela Universidade Federal do Ceará (2008) e doutorado em Ciência da Computação pela Universidade Federal do Ceará (2016). Atualmente é professor adjunto da Universidade Federal do Ceará, no Campus de Quixadá. Tem experiência na área de Ciência da Computação, com ênfase em Computação de Alto Desempenho, Sistemas Distribuídos e Programação de Componentes.
-
-* [Currículo lattes](http://lattes.cnpq.br/0599735640120960)
+O repositório do github do curso é esse:
+(https://github.com/jeffersoncarvalho/WTISC-POKEMON)[https://github.com/jeffersoncarvalho/WTISC-POKEMON]
