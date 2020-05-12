@@ -17,7 +17,7 @@ order: 2
 
 <i class="fa fa-clock-o" aria-hidden="true" style="color: #159957"></i> **18:00 horas**
 
-<i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> ** Luís Siqueira**
+<i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> **Luís Siqueira**
 
   * Luís Siqueira terminou o curso de bacharelado em Sistemas de Informação na UFC-Quixadá em 2019. Sempre que possível, ele se disponibiliza como voluntário para ministrar minicursos nos eventos organizados na UFC-Quixadá. Além disso, ele fundou a empresa Roove Tecnologia em 2014 juntamente com outros colegas para o desenvolvimento software customizáveis. Atualmente, trabalha como engenheiro de software na Allya. 
 
