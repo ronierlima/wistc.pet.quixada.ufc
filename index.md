@@ -32,17 +32,17 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
-      <td class="table-react" onclick="location.href = 'react'">React</td>
-      <td class="table-react" onclick="location.href = 'react'">React</td>
-      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
-      <td class="table-flutter" onclick="location.href = 'flutter'">Flutter</td>
+      <td class="table-react" onclick="location.href = 'minicursos/react'">React</td>
+      <td class="table-react" onclick="location.href = 'minicursos/react'">React</td>
+      <td class="table-flutter" onclick="location.href = 'minicursos/flutter'">Flutter</td>
+      <td class="table-flutter" onclick="location.href = 'minicursos/flutter'">Flutter</td>
     </tr>
     <tr>
       <th scope="row">16:00-17:00</th>
-      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
-      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
-      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
-      <td class="table-cafe"  onclick="location.href = 'cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
     </tr>
   
   </tbody>
@@ -57,6 +57,9 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 <img src="assets/images/p1.jpeg" alt="palestra 1" width="400">
 
 <i class="fad fa-presentation fa-2x"  style="color: #159957"></i> **Desafios no desenvolvimento de sistemas globais**
+
+Data: 13//05/2020
+Horário: 17:00
 
 <i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> **Claudson Oliveira**
 
