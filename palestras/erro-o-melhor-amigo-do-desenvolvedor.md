@@ -3,7 +3,7 @@ layout: default
 title: Palestra - Erro, o melhor amigo do desenvolvedor
 logo: ../assets/images/logo.png
 categories: [palestra]
-path: palestras/desafios-no-desenvolvimento-de-sistemas-globais
+path: palestras/erro-o-melhor-amigo-do-desenvolvedor
 description: 14 de Maio de 2020 às 18:00 horas
 ---
 
