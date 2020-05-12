@@ -53,7 +53,8 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 ### Desafios no desenvolvimento de sistemas globais 
 
-![palestra 1](https://scontent.ffor4-2.fna.fbcdn.net/v/t1.0-9/p960x960/97074588_2892539920811610_4244021278698110976_o.jpg?_nc_cat=111&_nc_sid=2d5d41&_nc_ohc=mNSQuyreA0MAX--VqM7&_nc_ht=scontent.ffor4-2.fna&_nc_tp=6&oh=fb288afe7f71a6f652b8c21135954e5b&oe=5EE05078)
+
+<img src="/assets/images/p1.jpeg" alt="palestra 1" width="400">
 
 <i class="fad fa-presentation fa-2x"  style="color: #159957"></i> **Desafios no desenvolvimento de sistemas globais**
 
