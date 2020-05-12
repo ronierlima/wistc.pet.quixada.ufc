@@ -1,9 +1,13 @@
 theme: jekyll-theme-cayman
 
-
+defaults:
+  - scope:
+      path: "assets/imges"
+    values:
+      image: true
 
 # Variaveis para caminhos de imagens 
-logo: /assets/images/logo.png
+logo: ./assets/images/logo.png
 title: WTISC 2020
 
 # Configurações internas do site
