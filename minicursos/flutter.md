@@ -2,6 +2,7 @@
 layout: default
 title: Flutter - Minicurso
 logo: ../assets/images/logo.png
+categories: [minicurso]
 ---
 
 # Flutter - Robson Silva
