@@ -4,6 +4,7 @@ title: React - Minicurso
 logo: ../assets/images/logo.png
 categories: [minicurso]
 path: minicursos/react
+description: 11 e 12 de Maio de 2020 das 14:00 às 16:00 horas
 ---
 
 # React - Prof. Jeferson Carvalho
