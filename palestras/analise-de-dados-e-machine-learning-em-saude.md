@@ -5,6 +5,7 @@ logo: ../assets/images/logo.png
 categories: [palestra]
 path: palestras/analise-de-dados-e-machine-learning-em-saude
 description: 15 de Maio de 2020 às 14:00 horas
+order: 3
 ---
 
 

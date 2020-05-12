@@ -5,6 +5,7 @@ logo: ../assets/images/logo.png
 categories: [minicurso]
 path: minicursos/flutter
 description: 13 e 14 de Maio de 2020 das 14:00 às 16:00 horas
+order: 3
 ---
 
 # Flutter - Robson Silva

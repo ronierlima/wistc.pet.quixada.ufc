@@ -5,6 +5,7 @@ logo: ../assets/images/logo.png
 categories: [minicurso]
 path: minicursos/cafe-com-docker
 description: 11 e 14 de Maio de 2020 das 16:00 às 17:00 horas
+order: 1
 ---
 
 # Café com Docker - Prof. Michel Bonfim

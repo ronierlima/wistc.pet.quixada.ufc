@@ -49,7 +49,8 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 ## Palestras
 
 
-{% for page in site.pages %}
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
 {% if page.categories contains 'palestra' %}
 <div class="item"><h3><a href="{{ page.path}}">{{ page.title }}</a></h3></div>
     {{page.description}}
