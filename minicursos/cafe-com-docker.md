@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Café com Docker - Minicurso
+title: Minicurso - Café com Docker
 logo: ../assets/images/logo.png
 categories: [minicurso]
 path: minicursos/cafe-com-docker

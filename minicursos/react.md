@@ -1,6 +1,6 @@
 ---
 layout: default
-title: React - Minicurso
+title: Minicuro - React
 logo: ../assets/images/logo.png
 categories: [minicurso]
 path: minicursos/react
