@@ -11,7 +11,7 @@ order: 3
 
 # Palestra - Análise de dados e Machine Learning em Saúde
 
-<img src="../assets/images/p2.jpeg" alt="palestra 1" width="400">
+<img src="../assets/images/p3.jpeg" alt="palestra 1" width="400">
   
 <i class="fa fa-calendar-check-o" aria-hidden="true" style="color: #159957"></i> **15 de Maio de 2020**
 
