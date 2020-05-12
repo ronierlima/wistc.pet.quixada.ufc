@@ -5,12 +5,10 @@ logo: ../assets/images/logo.png
 ---
 
 
-# Desafios no desenvolvimento de sistemas globais 
+# Palestra - Desafios no desenvolvimento de sistemas globais
 
 <img src="../assets/images/p1.jpeg" alt="palestra 1" width="400">
-
-<i class="fad fa-presentation"  style="color: #159957"></i> **Desafios no desenvolvimento de sistemas globais**
-
+  
 <i class="fa fa-calendar-check-o" aria-hidden="true" style="color: #159957"></i> **13 de Maio de 2020**
 
 <i class="fa fa-clock-o" aria-hidden="true" style="color: #159957"></i> **17:00 horas**
