@@ -2,6 +2,9 @@
 layout: default
 title: Palestra - Erro, o melhor amigo do desenvolvedor
 logo: ../assets/images/logo.png
+categories: [palestra]
+path: palestras/desafios-no-desenvolvimento-de-sistemas-globais
+description: 14 de Maio de 2020 às 18:00 horas
 ---
 
 
@@ -21,4 +24,4 @@ logo: ../assets/images/logo.png
 
 <i class="fab fa-linkedin" style="color: #159957"></i> [https://www.linkedin.com/in/luissiqueira/](https://www.linkedin.com/in/luissiqueira/)
 
-<i class="fab fa-github" style="color: #159957"></i>  [https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/)
+<i class="fab fa-github" style="color: #159957"></i>  [https://github.com/luissiqueira](https://github.com/luissiqueira)

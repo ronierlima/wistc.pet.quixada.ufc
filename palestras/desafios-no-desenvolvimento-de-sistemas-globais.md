@@ -2,6 +2,9 @@
 layout: default
 title: Palestra - Desafios no desenvolvimento de sistemas globais
 logo: ../assets/images/logo.png
+categories: [palestra]
+path: palestras/desafios-no-desenvolvimento-de-sistemas-globais
+description: 13 de Maio de 2020 às 17:00 horas
 ---
 
 
