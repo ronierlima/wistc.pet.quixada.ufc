@@ -51,22 +51,21 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 ## Palestras
 
-### Desafios no desenvolvimento de sistemas globais 
-
-
-<img src="assets/images/p1.jpeg" alt="palestra 1" width="400">
-
-<i class="fad fa-presentation fa-2x"  style="color: #159957"></i> **Desafios no desenvolvimento de sistemas globais**
-
-Data: 13//05/2020
-Horário: 17:00
-
-<i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> **Claudson Oliveira**
-
-  * Claudson é um engenheiro de software formado pela Universidade Federal de Juiz Fora em 2013. Atualmente, ele é engenheiro de software da OLX em Portugal e criador do canal de YouTube Quero Ser Programador com o objetivo de ajudar pessoas a dar o primeiro ou o próximo passo na programação.   
-
-<i class="fas fa-clipboard-check fa-2x" style="color: #159957"></i> **Inscrição:** [https://bit.ly/2zv8fPV](https://bit.ly/2zv8fPV)
-
-<i class="fab fa-linkedin fa-2x" style="color: #159957"></i> [https://www.linkedin.com/in/cloudson/](https://www.linkedin.com/in/cloudson/)
-
-<i class="fab fa-youtube fa-2x" style="color: #159957"></i>  [https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/)
+<tbody>
+    <tr>
+      <th scope="row">14:00-16:00</th>
+      <td class="table-react" onclick="location.href = 'minicursos/react'">React</td>
+      <td class="table-react" onclick="location.href = 'minicursos/react'">React</td>
+      <td class="table-flutter" onclick="location.href = 'minicursos/flutter'">Flutter</td>
+      <td class="table-flutter" onclick="location.href = 'minicursos/flutter'">Flutter</td>
+    </tr>
+    <tr>
+      <th scope="row">16:00-17:00</th>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+      <td class="table-cafe"  onclick="location.href = 'minicursos/cafe-com-docker'">Café com Docker</td>
+    </tr>
+  
+  </tbody>
+</table>
