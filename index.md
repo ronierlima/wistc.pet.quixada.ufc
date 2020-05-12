@@ -55,14 +55,14 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 ![palestra 1](https://scontent.ffor4-2.fna.fbcdn.net/v/t1.0-9/p960x960/97074588_2892539920811610_4244021278698110976_o.jpg?_nc_cat=111&_nc_sid=2d5d41&_nc_ohc=mNSQuyreA0MAX--VqM7&_nc_ht=scontent.ffor4-2.fna&_nc_tp=6&oh=fb288afe7f71a6f652b8c21135954e5b&oe=5EE05078)
 
-<i class="fad fa-presentation"  style="color: #159957"></i> ** Desafios no desenvolvimento de sistemas globais **
+<i class="fad fa-presentation fa-2x"  style="color: #159957"></i> **Desafios no desenvolvimento de sistemas globais**
 
-<i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> ** Claudson Oliveira **
+<i class="fas fa-chalkboard-teacher"  style="color: #159957"></i> **Claudson Oliveira**
 
   * Claudson é um engenheiro de software formado pela Universidade Federal de Juiz Fora em 2013. Atualmente, ele é engenheiro de software da OLX em Portugal e criador do canal de YouTube Quero Ser Programador com o objetivo de ajudar pessoas a dar o primeiro ou o próximo passo na programação.   
 
-<i class="fas fa-clipboard-check"></i> **Inscrição: ** [https://bit.ly/2zv8fPV](https://bit.ly/2zv8fPV)
+<i class="fas fa-clipboard-check fa-2x" style="color: #159957"></i> **Inscrição:** [https://bit.ly/2zv8fPV](https://bit.ly/2zv8fPV)
 
-<i class="fab fa-linkedin"></i> [https://www.linkedin.com/in/cloudson/](https://www.linkedin.com/in/cloudson/)
+<i class="fab fa-linkedin fa-2x" style="color: #159957"></i> [https://www.linkedin.com/in/cloudson/](https://www.linkedin.com/in/cloudson/)
 
-<i class="fab fa-youtube"></i>  [https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/)
+<i class="fab fa-youtube fa-2x" style="color: #159957"></i>  [https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ/)
