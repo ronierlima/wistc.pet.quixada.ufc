@@ -10,9 +10,6 @@ O objetivo do evento é promover e difundir o conhecimento sobre as diversas ár
 
 O WTISC é evento público realizado desde 2008, e consiste na oferta de palestras, minicursos, mesa redonda e hackathon. Buscando apresentar aos alunos/participantes um pouco da realidade do mercado de trabalho.
 
-# Este Ano
-
-
 # Programação
 
 ## Minicursos
@@ -28,7 +25,7 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
       <th scope="col">13/05</th>
       <th scope="col">14/05</th>
     </tr>
-  </thead>
+  </thead>  
   <tbody>
     <tr>
       <th scope="row">14:00-16:00</th>
@@ -50,3 +47,11 @@ O WTISC é evento público realizado desde 2008, e consiste na oferta de palestr
 
 
 ## Palestras
+
+
+{% for page in site.pages %}
+{% if page.categories contains 'palestra' %}
+<div class="item"><h3><a href="{{ page.path}}">{{ page.title }}</a></h3></div>
+    {{page.description}}
+{% endif %}
+{% endfor %}
