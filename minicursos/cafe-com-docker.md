@@ -2,6 +2,8 @@
 layout: default
 title: Café com Docker - Minicurso
 logo: ../assets/images/logo.png
+categories: [minicurso]
+path: minicursos/cafe-com-docker
 ---
 
 # Café com Docker - Prof. Michel Bonfim

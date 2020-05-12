@@ -2,6 +2,8 @@
 layout: default
 title: React - Minicurso
 logo: ../assets/images/logo.png
+categories: [minicurso]
+path: minicursos/react
 ---
 
 # React - Prof. Jeferson Carvalho
