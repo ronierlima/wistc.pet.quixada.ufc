@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: WTISC - 2020
 ---
 # Sobre
 
