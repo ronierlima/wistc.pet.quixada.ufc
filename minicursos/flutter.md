@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Flutter - Minicurso
+title: Minicuro - Flutter
 logo: ../assets/images/logo.png
 categories: [minicurso]
+path: flutter
 ---
 
 # Flutter - Robson Silva
